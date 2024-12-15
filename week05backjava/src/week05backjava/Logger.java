@@ -1,6 +1,10 @@
 package week05backjava;
 
+
+//Define the Logger interface
 public interface Logger {
-    void log(String message);
-    void error(String message);
+	// Method to log a message
+	void log(String message);
+	// Method to log an error message
+	void error(String message);
 }
