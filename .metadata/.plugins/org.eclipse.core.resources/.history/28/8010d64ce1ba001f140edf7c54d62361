@@ -1,0 +1,17 @@
+package week05backjava;
+
+public class AsteriskLogger implements Logger {
+
+	@Override
+	public void log(String message) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void error(String message) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
